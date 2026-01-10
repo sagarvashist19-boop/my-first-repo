@@ -1,3 +1,0 @@
-i am in 8th semester.
-third commetgit add
-this is new line commit
