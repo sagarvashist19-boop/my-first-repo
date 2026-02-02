@@ -1,5 +1,16 @@
 ﻿new line for diff
 second line for git add test.
-ci/cd practice line
+
+CI/CD is my pratice line
+ 
+
+
+
+
+
+
+
+
+
 
 
